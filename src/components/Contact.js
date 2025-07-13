@@ -42,7 +42,7 @@ const Contact = () => {
     
     try {
       // Formspree endpoint
-      const formEndpoint = 'https://formspree.io/f/mgvyqdzo';
+      const formEndpoint = 'https://formspree.io/f/manjzygp';
       
       const response = await fetch(formEndpoint, {
         method: 'POST',

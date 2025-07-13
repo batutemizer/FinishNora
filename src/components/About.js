@@ -12,7 +12,7 @@ const About = () => {
     {
       icon: Users,
       title: 'Deneyimli Öğretmenler',
-      description: '15+ yıl deneyime sahip uzman matematik öğretmenleri'
+      description: '8+ yıl deneyime sahip uzman matematik öğretmenleri'
     },
     {
       icon: BookOpen,

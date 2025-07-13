@@ -216,7 +216,7 @@ const Footer = () => {
                <button 
          className="w-14 h-14 bg-green-600 hover:bg-green-700 rounded-full flex items-center justify-center shadow-lg hover:shadow-xl transition-all duration-200 group"
          onClick={() => {
-           const phoneNumber = '905551234567';
+           const phoneNumber = '905522641898';
            const message = 'Merhaba! Nora Akademi hakkında bilgi almak istiyorum.';
            const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
            window.open(whatsappUrl, '_blank');
